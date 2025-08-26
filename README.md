@@ -25,22 +25,9 @@
   - 在空頭行情中，依靠系統化動能策略取得 **+20% 以上報酬**  
   - 展現了 **順勢操作 + 嚴格風控** 的專業量化交易思維  
 
-### English
-- **Strategy Type**: Intraday Short-Momentum Strategy  
-- **Core Logic**:  
-  - Captured bearish momentum via **price breakout + volume surge**  
-  - Applied strict **stop-loss (-5%)** rules  
-  - Closed all positions **intraday** to avoid overnight risk  
-- **Highlights**:  
-  - Delivered **+21.4% return** during a bearish month  
-  - Demonstrated **trend-following discipline and robust risk management**  
-
 ---
 
 ## 🖼️ 獎項證明
 ![Competition Award](./第一屆王者之路交易大賽亞軍.jpg)
 
----
 
-## 📌 備註
-- 本專案為競賽成果展示，績效數據僅代表 **模擬賽季結果**，不構成實際投資建議。
